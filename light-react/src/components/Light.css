@@ -1,0 +1,19 @@
+.icon{
+  width: 64px;
+  height: 64px;
+  margin: 10px;
+  background:#ccc;
+  opacity: 0.2;
+}
+.icon.active{
+  opacity: 1;
+}
+.red{
+  background: red;
+}
+.green{
+  background: green;
+}
+.orange{
+  background: orange;
+}
